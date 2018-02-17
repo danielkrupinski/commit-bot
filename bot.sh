@@ -1,8 +1,14 @@
+echo "Enter amount of commits: "
+read amount
 touch file
-while :
+x=1
+while [ $x -le $amount ]
 do
 	echo "bot" >> file
 	git add -A
 	git commit -m "commit"
+	x=$[x + 1]
 done
 rm file
+git add -A
+git commit -m "commit"
