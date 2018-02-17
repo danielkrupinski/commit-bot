@@ -5,3 +5,4 @@ do
 	git add -A
 	git commit -m "commit"
 done
+rm file
