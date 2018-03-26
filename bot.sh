@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "Enter amount of commits: "
 read amount
 touch file
