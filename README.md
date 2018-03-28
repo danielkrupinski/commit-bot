@@ -5,3 +5,6 @@ Bash script for making contributions
 ```
 git clone https://github.com/danielkrupinski/commit-bot.git
 ```
+```
+cd commit-bot
+```
