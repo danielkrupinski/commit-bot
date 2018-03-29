@@ -9,3 +9,7 @@ git clone https://github.com/danielkrupinski/commit-bot.git
 ```
 cd commit-bot
 ```
+Then run script:
+```
+./bot
+```
